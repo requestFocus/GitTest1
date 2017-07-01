@@ -29,3 +29,12 @@ public class GitTest1 {
     } 
     
 }
+
+/*
+    utwórz projekt
+    versioning -> initialize git repo dla default ścieżki
+    dodaj w github desktop local repo
+    commit
+
+    na ten moment można już stworzyć brancha i się poruszać między branchami
+*/
