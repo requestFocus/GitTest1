@@ -21,6 +21,7 @@ public class GitTest1 {
         frame.add(panel);
         panel.setBackground(Color.RED);
         panel.add(new JLabel("master"));
+        panel.add(new JLabel("update 2.07"));
         
         frame.setBounds(100, 100, 100, 100);
         frame.setDefaultCloseOperation(3);
